@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://awzainc.github.io/http-cardinalsolarsolutions/sitemap.xml
